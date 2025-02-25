@@ -116,10 +116,10 @@ enableEmoji = true
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/explore/tags/apero/"
-  [[params.social]]
-      icon      = "x-twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+ # [[params.social]]
+     # icon      = "x-twitter" # icon name without the 'fa-'
+     # icon_pack = "fab"
+     # url       = "https://twitter.com/hashtag/apéro"
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
