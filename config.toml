@@ -56,7 +56,7 @@ enableEmoji = true
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
   
-  custom_theme = "hex colors" 
+  custom_theme = "hex-colors" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
