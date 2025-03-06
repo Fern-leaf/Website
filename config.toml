@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-# theme = "" 
+ theme = "forest" 
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -56,7 +56,7 @@ enableEmoji = true
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
   
-  custom_theme = "hex colors" 
+  #####custom_theme = "hex colors" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
