@@ -26,8 +26,7 @@ enableEmoji = true
     ordered = false
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/ 
-    style = "github""
-    
+    style = "github"
 [params]
   orgName = "RStudio"
   orgLocal = "Anywhere"
