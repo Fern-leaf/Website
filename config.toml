@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
-  logo = "/img/leaf2.jpg"
+  logo = "/img/leaf2.png"
   mainSections = ["blog", "projects"]
   navallcaps = true
   # show/hide social icons in site header & footer
