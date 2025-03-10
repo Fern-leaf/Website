@@ -1,6 +1,6 @@
 ---
 title: "Fern Compston"
-subtitle: "A Hugo theme you'll want to hang out with"
+#####subtitle: ""#
 description: "I am a second year student studying BSc Natural Science at the University of Huddersfield"
 images:
   - img/sciencepic.png
